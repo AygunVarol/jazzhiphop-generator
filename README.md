@@ -13,7 +13,7 @@ Automatic generation of smooth jazz-hip hop instrumentals with piano, funk, and 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/jazzhiphop-generator.git
+git clone https://github.com/AygunVarol/jazzhiphop-generator.git
 cd jazzhiphop-generator
 pip install -r requirements.txt
 ```

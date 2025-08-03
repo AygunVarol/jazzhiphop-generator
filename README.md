@@ -91,5 +91,4 @@ MIT License - See LICENSE file for details
 
 ## Credits
 
-Created by [Your Name] - Music Producer & Software Developer
-Inspired by artists like Robert Glasper, Nujabes, and J Dilla
+Created by Aygün Varol - Music Producer & Software Developer

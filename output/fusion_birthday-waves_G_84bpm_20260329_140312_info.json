@@ -1,0 +1,372 @@
+{
+  "generated_at": "20260329_140312",
+  "prompt_hint": "Create a song about happy birthday song to my friend dolphing. Happy birthday dolphin.",
+  "provider": "ollama",
+  "model": "gpt-oss:120b-cloud",
+  "seed": 304242,
+  "plan": {
+    "title": "Birthday Waves",
+    "description": "A breezy jazz\u2011lofi tribute celebrating Dolphing\u2019s birthday, with vibraphone hooks and warm vinyl crackle.",
+    "bpm": 84,
+    "key": "G",
+    "mode": "major",
+    "mood": "playful celebratory birthday vibe",
+    "texture": "sunset_haze",
+    "swing": 0.12,
+    "humanization": 0.04,
+    "arrangement_style": "head_nod",
+    "progression_family": "golden_hour",
+    "drum_style": "boom_bap_jazz",
+    "bass_style": "walking_glide",
+    "piano_style": "dusty_chords",
+    "lead_style": "vibraphone_hook",
+    "keys_sound": "rhodes",
+    "bass_sound": "upright_bass",
+    "lead_sound": "vibes",
+    "pad_sound": "warm_pad",
+    "counter_sound": "bell_pluck",
+    "percussion_style": "shaker",
+    "riff_shape": "ascending",
+    "motif_variation": "call_response",
+    "riff_density": 0.55,
+    "variety_amount": 0.65,
+    "substitution_rate": 0.2,
+    "immersion_mode": "atmosphere",
+    "ambience_layers": [
+      "vinyl",
+      "rain"
+    ],
+    "sections": [
+      {
+        "name": "intro",
+        "bars": 8,
+        "intensity": 0.3,
+        "layers": [
+          "keys",
+          "pad",
+          "percussion"
+        ],
+        "variation": "steady",
+        "lead_density": 0.0
+      },
+      {
+        "name": "verse_a",
+        "bars": 16,
+        "intensity": 0.5,
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter",
+          "percussion",
+          "lead"
+        ],
+        "variation": "lift",
+        "lead_density": 0.2
+      },
+      {
+        "name": "chorus",
+        "bars": 8,
+        "intensity": 0.8,
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "lead",
+          "pad",
+          "counter",
+          "percussion"
+        ],
+        "variation": "answer",
+        "lead_density": 0.9
+      },
+      {
+        "name": "verse_b",
+        "bars": 16,
+        "intensity": 0.55,
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter",
+          "pad",
+          "percussion",
+          "lead"
+        ],
+        "variation": "settle",
+        "lead_density": 0.25
+      },
+      {
+        "name": "bridge",
+        "bars": 12,
+        "intensity": 0.7,
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter"
+        ],
+        "variation": "breakdown",
+        "lead_density": 0.6
+      },
+      {
+        "name": "chorus",
+        "bars": 8,
+        "intensity": 0.85,
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "lead",
+          "pad",
+          "counter",
+          "percussion"
+        ],
+        "variation": "release",
+        "lead_density": 0.95
+      },
+      {
+        "name": "outro",
+        "bars": 8,
+        "intensity": 0.4,
+        "layers": [
+          "keys",
+          "pad",
+          "percussion",
+          "lead"
+        ],
+        "variation": "settle",
+        "lead_density": 0.1
+      }
+    ],
+    "seed": 304242,
+    "planner_source": "ollama",
+    "planner_notes": ""
+  },
+  "composition": {
+    "duration_seconds": 217.143,
+    "total_bars": 76,
+    "sections": [
+      {
+        "name": "intro",
+        "bars": 8,
+        "start_seconds": 0.0,
+        "end_seconds": 22.857,
+        "progression": [
+          "Imaj9",
+          "iii7",
+          "IVmaj9",
+          "IVmaj9",
+          "Imaj9",
+          "Imaj9",
+          "Imaj9",
+          "Imaj9"
+        ],
+        "layers": [
+          "keys",
+          "pad",
+          "percussion"
+        ],
+        "variation": "steady"
+      },
+      {
+        "name": "verse_a",
+        "bars": 16,
+        "start_seconds": 22.857,
+        "end_seconds": 68.571,
+        "progression": [
+          "Imaj9",
+          "V13",
+          "iii7",
+          "IVmaj9",
+          "Imaj9",
+          "VII13",
+          "iii7",
+          "IVmaj9",
+          "ii9",
+          "iii7",
+          "IVmaj9",
+          "Imaj9",
+          "V13",
+          "iii7",
+          "ii9",
+          "V13"
+        ],
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter",
+          "percussion",
+          "lead"
+        ],
+        "variation": "lift"
+      },
+      {
+        "name": "chorus",
+        "bars": 8,
+        "start_seconds": 68.571,
+        "end_seconds": 91.429,
+        "progression": [
+          "Imaj9",
+          "vi9",
+          "ii9",
+          "iii7",
+          "IVmaj9",
+          "ii9",
+          "ii9",
+          "Imaj9"
+        ],
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "lead",
+          "pad",
+          "counter",
+          "percussion"
+        ],
+        "variation": "answer"
+      },
+      {
+        "name": "verse_b",
+        "bars": 16,
+        "start_seconds": 91.429,
+        "end_seconds": 137.143,
+        "progression": [
+          "Imaj9",
+          "ii9",
+          "VII13",
+          "Imaj9",
+          "VII13",
+          "Imaj9",
+          "iii7",
+          "IVmaj9",
+          "Imaj9",
+          "IVmaj9",
+          "V13",
+          "iii7",
+          "vi9",
+          "IVmaj9",
+          "IVmaj9",
+          "vi9"
+        ],
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter",
+          "pad",
+          "percussion",
+          "lead"
+        ],
+        "variation": "settle"
+      },
+      {
+        "name": "bridge",
+        "bars": 12,
+        "start_seconds": 137.143,
+        "end_seconds": 171.429,
+        "progression": [
+          "vi9",
+          "ii9",
+          "ii9",
+          "ii9",
+          "iii7",
+          "vi9",
+          "ii9",
+          "ii9",
+          "iii7",
+          "iii7",
+          "ii9",
+          "V13"
+        ],
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "counter"
+        ],
+        "variation": "breakdown"
+      },
+      {
+        "name": "chorus",
+        "bars": 8,
+        "start_seconds": 171.429,
+        "end_seconds": 194.286,
+        "progression": [
+          "Imaj9",
+          "vi9",
+          "ii9",
+          "VII13",
+          "Imaj9",
+          "vi9",
+          "vi9",
+          "Imaj9"
+        ],
+        "layers": [
+          "keys",
+          "bass",
+          "drums",
+          "lead",
+          "pad",
+          "counter",
+          "percussion"
+        ],
+        "variation": "release"
+      },
+      {
+        "name": "outro",
+        "bars": 8,
+        "start_seconds": 194.286,
+        "end_seconds": 217.143,
+        "progression": [
+          "Imaj9",
+          "Imaj9",
+          "VII13",
+          "iii7",
+          "vi9",
+          "IVmaj9",
+          "Imaj9",
+          "Imaj9"
+        ],
+        "layers": [
+          "keys",
+          "pad",
+          "percussion",
+          "lead"
+        ],
+        "variation": "settle"
+      }
+    ],
+    "instrument_palette": {
+      "keys_sound": "rhodes",
+      "bass_sound": "upright_bass",
+      "lead_sound": "vibes",
+      "pad_sound": "warm_pad",
+      "counter_sound": "bell_pluck",
+      "percussion_style": "shaker",
+      "riff_shape": "ascending",
+      "motif_variation": "call_response"
+    }
+  },
+  "render": {
+    "sample_rate": 44100,
+    "duration_seconds": 219.643,
+    "stems": [
+      "ambience",
+      "bass:upright_bass",
+      "counter:bell_pluck",
+      "drums:boom_bap_jazz",
+      "keys:rhodes",
+      "lead:vibes",
+      "pad:warm_pad",
+      "percussion:shaker"
+    ],
+    "exported_stems": []
+  },
+  "files": {
+    "midi": "C:\\Users\\Aygun\\Desktop\\denemeklasoru\\fusion-music-generator\\output\\fusion_birthday-waves_G_84bpm_20260329_140312.mid",
+    "wav": "C:\\Users\\Aygun\\Desktop\\denemeklasoru\\fusion-music-generator\\output\\fusion_birthday-waves_G_84bpm_20260329_140312.wav"
+  }
+}
